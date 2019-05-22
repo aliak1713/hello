@@ -5,6 +5,7 @@
 Write your code in this editor and press "Run" button to execute it.
 
 '''
+def main():
+    print("Hello World with main function defn");
 
-print("Hello World");
-
+main()
